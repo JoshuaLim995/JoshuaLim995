@@ -1,13 +1,12 @@
+# Github Stats
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaLim995&theme=react&show_icons=true&count_private=true)
-
+<!--
 [![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joshuaLim995&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaLim995&layout=compact&hide=css&theme=react)
 
-<img
-  src="https://github.com/joshuaLim995/joshuaLim995/blob/main/images/stat.svg"
-  alt="My Coding Activity"
-/>
+# My Coding Activity
+[![My Coding Activity](https://github.com/joshuaLim995/joshuaLim995/blob/main/images/stat.svg)](https://wakatime.com/@joshuaLim995)
 
 <!--
 **JoshuaLim995/JoshuaLim995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
