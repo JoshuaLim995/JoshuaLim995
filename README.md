@@ -2,7 +2,7 @@
 # Github Stats
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaLim995&theme=react&show_icons=true&count_private=true)
 
-![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@joshuaLim995&theme=react&layout=compact&langs_count=4&custom_title=Coded%20this%20week)
+![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joshuaLim995&theme=react&langs_count=4&custom_title=Coded%20this%20week&layout=compact)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaLim995&layout=compact&hide=css&theme=react) -->
 
