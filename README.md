@@ -1,10 +1,10 @@
-[![wakatime](https://wakatime.com/badge/user/d941cc6f-9f77-4cd0-bc3e-f1db61d45010.svg)](https://wakatime.com/@d941cc6f-9f77-4cd0-bc3e-f1db61d45010)
+<!-- [![wakatime](https://wakatime.com/badge/user/d941cc6f-9f77-4cd0-bc3e-f1db61d45010.svg)](https://wakatime.com/@d941cc6f-9f77-4cd0-bc3e-f1db61d45010) -->
 # Github Stats
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaLim995&theme=react&show_icons=true&count_private=true)
-<!--
-[![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joshuaLim995&theme=react)](https://github.com/anuraghazra/github-readme-stats)
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaLim995&layout=compact&hide=css&theme=react)
+
+![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@joshuaLim995&theme=react&layout=compact&langs_count=4&custom_title=Coded%20this%20week)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaLim995&layout=compact&hide=css&theme=react) -->
 
 <!--
 # My Coding Activity
