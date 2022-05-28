@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/d941cc6f-9f77-4cd0-bc3e-f1db61d45010.svg)](https://wakatime.com/@d941cc6f-9f77-4cd0-bc3e-f1db61d45010)
 # Github Stats
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaLim995&theme=react&show_icons=true&count_private=true)
 <!--
